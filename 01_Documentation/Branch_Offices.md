@@ -1,20 +1,6 @@
-| Branch  | Purpose        |
 
-| ------- | -------------- |
 
-| Nairobi | Headquarters   |
-
-| Mombasa | Coastal Region |
-
-| Kisumu  | Western Region |
-
-| Nakuru  | Rift Valley    |
-
-| Eldoret | North Rift     |
-
-| Kericho | South Rift     |
-
-|Branch|Purpose|
+|Branch Name|Purpose|
 |-|-|
 |Nairobi|Headquarters|
 |Mombasa|Coastal Region|
