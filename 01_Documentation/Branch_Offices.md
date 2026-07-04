@@ -1,6 +1,4 @@
-
-
-|Branch Name|Purpose|
+|<br />Branch Name|Purpose|
 |-|-|
 |Nairobi|Headquarters|
 |Mombasa|Coastal Region|
