@@ -12,17 +12,17 @@ To become Kenya's most trusted and innovative insurance provider, delivering acc
 
 \## Core Values
 
-• Integrity – We uphold honesty, transparency, and ethical conduct in every decision. 
+• Integrity – We uphold honesty, transparency, and ethical conduct in every decision.
 
-• Accountability – We take ownership of our actions and are committed to delivering on our promises. 
+• Accountability – We take ownership of our actions and are committed to delivering on our promises.
 
-• Customer First – Every decision we make is guided by the needs and success of our customers. 
+• Customer First – Every decision we make is guided by the needs and success of our customers.
 
-• Innovation – We embrace technology and continuous improvement to provide better insurance solutions. 
+• Security by Design – We prioritize the confidentiality, integrity, and availability of information in every product, service, and business process.
 
-• Excellence – We strive for the highest standards in service, security, and operational performance. 
+• Excellence – We strive for the highest standards in service, security, and operational performance.
 
-• Diversity \& Inclusion – We value diverse perspectives and foster an environment where everyone is respected and empowered. 
+• Diversity \& Inclusion – We value diverse perspectives and foster an environment where everyone is respected and empowered.
 
 • Reliability – We are dependable partners, providing consistent support when our customers need us most.
 
